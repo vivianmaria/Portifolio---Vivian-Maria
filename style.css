@@ -385,4 +385,11 @@ footer .column > a:hover {
   .card {
     text-align: center;
   }
+
+  #rodape {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
 }
